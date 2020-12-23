@@ -118,6 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="CREDENTIAL" xml:space="preserve">
-    <value>{"web":{"client_id":"573092007258-vhccibhoqdk8jjlht4v4nmmg915objkc.apps.googleusercontent.com","project_id":"sampleoauthproject-299308","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"hUU_Kg3RgK3_9o1VYEl3UvK0","javascript_origins":["https://localhost:49155"]}}</value>
+    <value>{"installed":{"client_id":"573092007258-pd0n5on09p3731eutlbu8jg04ro61aj1.apps.googleusercontent.com","project_id":"sampleoauthproject-299308","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"MqmWPkP9NR0Zo4cKKQ3FKB7v","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}Ryoichi-no-Mac-mini:Downloads maeda$ </value>
   </data>
 </root>
